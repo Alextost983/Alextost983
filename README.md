@@ -1,8 +1,10 @@
  ### Hi, I’m Alex aka Alextost 👋 
  ## I’m Data Engineer.
  - 🌱 I’m currently learning Data Science
+ - ⚡ I'm sure that a difficult task is solved by several simple sub tasks
+ - 🔭 looking for a new meanings
 ### Connect with me
-+7-916-652-45-00
++7-916-652-45-00 https://github.com/wle8300/instagram-logo/blob/master/logo.svg
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
