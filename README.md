@@ -4,7 +4,8 @@
  - ⚡ I'm sure that a difficult task is solved by several simple sub tasks
  - 🔭 looking for a new meanings
 ### Connect with me
-+7-916-652-45-00 
++7-916-652-45-00 ![image](https://github.com/Alextost983/Alextost983/assets/132558046/5f368187-c25f-44ee-982b-b5e76014c91b)
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
